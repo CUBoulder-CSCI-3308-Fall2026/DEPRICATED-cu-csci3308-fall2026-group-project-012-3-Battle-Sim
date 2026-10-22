@@ -1,0 +1,1 @@
+A turn based battle simulator where you use the moves of the people that we put into the game, and simulate battles against you, your friends, and others.
